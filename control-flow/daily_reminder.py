@@ -20,6 +20,6 @@ else:
     time_bound_message = "This task is not time-sensitive."
 
 # Step 4: Provide a customized reminder
-print(f"\nReminder: {task}")
+print(f"Reminder: {task}")
 print(f"Priority: {priority_message}")
 print(f"{time_bound_message}")
